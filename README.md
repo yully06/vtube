@@ -22,4 +22,4 @@ APP主页：
 
 扫码下载（暂时只支持android）：
 
-![下载二维码](https://github.com/yully06/vtube/blob/master/pic/1573206894.png)
+![下载二维码](https://github.com/yully06/vtube/blob/master/pic/1573639824.png)
