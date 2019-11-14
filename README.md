@@ -20,6 +20,6 @@ APP主页：
 ![播放页](https://github.com/yully06/vtube/blob/master/pic/Screenshot_20191029-161559.png)
 
 
-扫码下载（暂时只支持android）：
+扫码下载（请用浏览器扫码，暂时只支持android）：
 
 ![下载二维码](https://github.com/yully06/vtube/blob/master/pic/swjsb.png)
